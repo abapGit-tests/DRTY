@@ -1,0 +1,2 @@
+@EndUserText.label: 'Test object for abapGit'
+define type Z_DRTY_EXAMPLE : abap.int2
